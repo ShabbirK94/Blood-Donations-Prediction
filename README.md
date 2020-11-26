@@ -1,2 +1,2 @@
 # Blood-Donations-Prediction
-Predict Blood donations.
+ProjectDescriptionForecasting blood supply is a serious and recurrent problem for blood collection managers.In this Project, we will work with data collected from the donor database of Blood TransfusionService Center.  The dataset, obtained from the Machine Learning Repository, consists of a random sample of 748 donors. Our task will be to predict if a blood donor will donate within a giventime window. We will look at the full model-building process: from inspecting the dataset to usingthe tpot library to automate your Machine Learning pipeline.
